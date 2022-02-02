@@ -8,6 +8,17 @@ about the tool :
 - No login required
 - It works on all systems
 -----------------------
-After running the tool, it asks you for the username of the one you want to report, enter it
+- After running the tool, it asks you for the username of the one you want to report, enter it
 -----------------------
-J
+install in kali linux :
+<!--START_SECTION:waka-->
+```
+sudo git clone https://github.com/vv1ck/Brute-Force-Connected
+```
+<!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+```
+cd Brute-Force-Connected
+```
+<!--END_SECTION:waka-->
+-----------------------
