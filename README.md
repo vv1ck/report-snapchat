@@ -34,10 +34,10 @@ pip install threading
 - Then run the tool :
 <!--START_SECTION:waka-->
 ```
-python3 RE-Snapchat.py
+python3 RE-snap.py
 ```
 <!--END_SECTION:waka-->
 --------------------
-By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="http://t.me/vv1ck">telegram 🔷</a> | <a class="" href="http://t.me/TweakPY">telegram 2 🔷</a>
+By JOKER | <a class="" href="https://www.snapchat.com/add/jokermr5oos4800?">Snapchat 👻</a> | <a class="" href="https://instagram.com/221298?utm_medium=copy_link">instagram 🔷</a>
 -
 seee
